@@ -1,5 +1,7 @@
 # Frankie's Mini Music-Player
 
+![Music-player_image](https://i.ibb.co/bbkRcrG/Screenshot-2021-01-06-224521.jpg)
+
 *This project was done in a sprint of a day, with about 6 hours spent researching, brainstorming features, product design, code development, and UI cleanup*
 
 The code-pen version can be found here: https://codepen.io/justfrankie/full/OJRExOE
